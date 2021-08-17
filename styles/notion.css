@@ -18,7 +18,7 @@
 }
 
 .index-page {
-  --notion-max-width: 900px;
+  --notion-max-width: 1400px;
 }
 
 .notion-text {
@@ -203,7 +203,7 @@
 
 .notion-link:hover {
   border-width: 3px;
-  border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
+  border-image: linear-gradient(90.68deg, #b439df 0.26%, #E3FF00 102.37%);
   border-image-slice: 1;
 }
 
@@ -329,6 +329,6 @@
 }
 
 .notion-bookmark:hover {
-  border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
+  border-image: linear-gradient(90.68deg, #b439df 0.26%, #E3FF00 102.37%);
   border-image-slice: 1;
 }

@@ -8,13 +8,13 @@ module.exports = {
 
   // basic site info (required)
   name: 'Marcel The Creator',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'marcelthecreator.com',
+  author: 'Marcel The Creator',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello Mundo! 👋',
+  description: 'Lo-fi Business | No Code',
+  socialImageTitle: 'Lo-fi Business',
+  socialImageSubtitle: 'Lo-fi Business',
 
   // social usernames (optional)
   twitter: 'transitive_bs',

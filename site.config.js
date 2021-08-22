@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '4b4f11b6bddb48e79a8768ecc8e02274',
+  rootNotionPageId: '321fe32bbeec4e6b9e4a52ceea5da215',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -12,14 +12,14 @@ module.exports = {
   author: 'Marcel The Creator',
 
   // open graph metadata (optional)
-  description: 'Lo-fi Business | No Code',
+  description: 'Lo-fi Business',
   socialImageTitle: 'Lo-fi Business',
   socialImageSubtitle: 'Lo-fi Business',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'marcelthecreator',
+  github: 'marcelxv',
+  linkedin: 'marcel-lourenco',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
